@@ -7,4 +7,4 @@ function trocarBanner() {
     banners[bannerAtual];
 }
 
-setInterval(trocarBanner, 2000);
+setInterval(trocarBanner, 1000);
